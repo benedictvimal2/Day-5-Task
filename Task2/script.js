@@ -15,7 +15,6 @@ for(var i = 0; i < json.length; i++) {
     var obj = json[i];
 
     console.log(obj.id);
-    console.log(obj.msg);
     console.log(obj.task);
     console.log(obj.mail);
 
