@@ -52,7 +52,8 @@ let myResume={
     ],
     "interests": [
       {
-        "interest": "sports,vehicle customization,",
+        "name": "sports,",
+        "name": "vehicle customization,",
       }
     ]
   }
