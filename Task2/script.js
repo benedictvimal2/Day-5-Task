@@ -1,13 +1,13 @@
 var json = [{
     "id" : "vimal", 
     "task" : "day five task",
-    "msg"   : "For the given JSON iterate over all for loops (for, for in, for of, forEach)",    
+    "msg"   : "For the given JSON iterate over all for loops",    
     "mail": "benedictvimal2@gmail.com"
 },
 {
     "id" : "raj", 
     "task" : "day five task",
-    "msg"   : "For the given JSON iterate over all for loops (for, for in, for of, forEach)",
+    "msg"   : "For the given JSON iterate over all for loops",
     "mail": "benedictvimal2@gmail.com"
 }];
 //for loop
