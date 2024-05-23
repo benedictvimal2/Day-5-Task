@@ -1,14 +1,14 @@
 var json = [{
-    "id" : "raja1", 
-    "msg"   : "For the given JSON iterate over all for loops (for, for in, for of, forEach)",
-    "task" : "zen portal task",
-    "mail": "rajarat6@gmail.com"
+    "id" : "vimal", 
+    "task" : "day five task",
+    "msg"   : "For the given JSON iterate over all for loops (for, for in, for of, forEach)",    
+    "mail": "benedictvimal2@gmail.com"
 },
 {
-    "id" : "raja2", 
+    "id" : "raj", 
+    "task" : "day five task",
     "msg"   : "For the given JSON iterate over all for loops (for, for in, for of, forEach)",
-    "task" : "zen portal task",
-    "mail": "rajarat6@gmail.com"
+    "mail": "benedictvimal2@gmail.com"
 }];
 //for loop
 for(var i = 0; i < json.length; i++) {
@@ -16,6 +16,7 @@ for(var i = 0; i < json.length; i++) {
 
     console.log(obj.id);
     console.log(obj.task);
+    console.log(obj.msg);
     console.log(obj.mail);
 
 }
